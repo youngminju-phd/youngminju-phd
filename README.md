@@ -3,6 +3,8 @@
 ## I'm a Data Scientist, Economist, Applied Scientist | CEO, Non-Profit Organization
 
 - 👀  I’m interested in causal inference, machine learning, predictive analytics, and experimental design. 
+- 🎓  PhD in Economics @ USC / MA in Economics @ Korea Univ. / BS in Mathmatical Sciences @ KAIST
+- 🔭  I was a Junior Military Officer @ ROKA (Republic of Korea Army)
 - 🌱  I’m currently learning from kaggle, data potcasts, linkedin learning and towards data science.
 - 💞️  I’m looking to collaborate on causal inference and machine learning.
 - 🏋️  Workout everyday!
