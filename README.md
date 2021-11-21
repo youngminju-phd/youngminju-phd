@@ -31,7 +31,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [[TA materials] Big Data Econometrics](https://youngminju.com/BigDataEconometrics/)
-- [Store Item Demand Forecasting Project](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Store Item Demand Forecasting Project](https://youngminju.com/Store-Item-Demand-Forecasting-Project/)
 - [Customer Churn Prediction Project](https://youngminju.com/Customer-Churn-Prediction-Project/)
 - [[Paper] Control Function Approach for Partly Ordered Endogenous Treatments: Military Rank Premium in Wage](https://onlinelibrary.wiley.com/doi/10.1111/obes.12199)
 <!-- BLOG-POST-LIST:END -->
