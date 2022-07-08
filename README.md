@@ -1,6 +1,6 @@
 ### Hi there, I'm Youngmin 👋
 
-## I'm a Data Scientist, Economist, Applied Scientist | CEO, Non-Profit Organization
+## I'm a Data Scientist, Economist, Applied Scientist
 
 - 👀  I’m interested in causal inference, machine learning, predictive analytics, and experimental design. 
 - 🎓  PhD in Economics @ USC / MA in Economics @ Korea Univ. / BS in Mathmatical Sciences @ KAIST
