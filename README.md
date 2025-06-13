@@ -1,14 +1,13 @@
 ### Hi there, I'm Youngmin 👋
 
-## I'm a Data Scientist, Economist, Applied Scientist
+## I'm a Data Scientist, Economist, Applied Scientist 💞️
 
 - 👀  I’m interested in causal inference, machine learning, predictive analytics, and experimental design. 
 - 🎓  PhD in Economics @ USC / MA in Economics @ Korea Univ. / BS in Mathmatical Sciences @ KAIST
 - 🔭  I was a Junior Military Officer @ ROKA (Republic of Korea Army)
-- 🌱  I’m currently learning from kaggle, data potcasts, linkedin learning and towards data science.
-- 💞️  I’m looking to collaborate on causal inference and machine learning.
+- 🌱  I’m currently learning from kaggle, data potcasts, tech blogs, various books and towards data science.
 - 🏋️  Workout everyday!
-- 📫  How to reach me: contactme@youngminju.com
+- 📫  How to reach me: contactme@youngminju.com   
 
 ### Connect with me:
 
@@ -35,13 +34,12 @@
 ### 📕 Latest Project Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[TA materials] Big Data Econometrics](https://youngminju.com/BigDataEconometrics/)
-- [Store Item Demand Forecasting Project](https://youngminju.com/Store-Item-Demand-Forecasting-Project/)
-- [Customer Churn Prediction Project](https://youngminju.com/Customer-Churn-Prediction-Project/)
+- [ALM Assessment Dashboard](https://www.youngminju.com/portfolio/alm-assessment-dashboard/)
+- [Crypto Arbitrage Feasibility Analysis](https://www.youngminju.com/portfolio/crypto-arbitrage-analysis/)
 - [[Paper] Control Function Approach for Partly Ordered Endogenous Treatments: Military Rank Premium in Wage](https://onlinelibrary.wiley.com/doi/10.1111/obes.12199)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more project posts...](https://youngminju.com/posts/)
+➡️ [more projects...](https://youngminju.com/portfolio/)
 
 ---
 
