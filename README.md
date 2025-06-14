@@ -7,7 +7,7 @@
 - 🔭  I was a Junior Military Officer @ ROKA (Republic of Korea Army)
 - 🌱  I’m currently learning from kaggle, data potcasts, tech blogs, various books and towards data science.
 - 🏋️  Workout everyday!
-- 📫  How to reach me: contactme@youngminju.com   
+- 📫  How to reach me: youngmin.ju.biz@gmail.com   
 
 ### Connect with me:
 
